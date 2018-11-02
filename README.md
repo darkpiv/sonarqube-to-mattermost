@@ -10,7 +10,7 @@ SONAR_USERNAME=temp SONAR_PASSWORD=abc12 SLACK_CHANNEL=#general PROJECT_ALIAS_NA
 ```
 
 # run with docker. 
-Docker images from [darkpiv/sonarqube-to-slack](https://hub.docker.com/r/darkpiv/sonarqube-2-slack)
+Docker images from [darkpiv/sonarqube-2-slack](https://hub.docker.com/r/darkpiv/sonarqube-2-slack)
 
 ```
 docker pull darkpiv/sonarqube-2-slack
